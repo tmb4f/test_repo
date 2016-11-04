@@ -1,4 +1,4 @@
 this is a test file
 this is a new line
-this is a second new line
+this is a second new line change
 this is a third new line
